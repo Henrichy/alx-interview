@@ -50,4 +50,4 @@ const getCharNames = async () => {
   }
 };
 
-getCharNames();
+getCharNames()
